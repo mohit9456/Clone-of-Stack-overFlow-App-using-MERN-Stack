@@ -1,25 +1,22 @@
 {
-  "name": "server",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "build": "echo \"No build specified\" && exit 1",
-    "test": "echo \"No test specified\" && exit 1",
-    "start": "node index.js"
-  },
-  "repository": {
-     "type": "git",
-      "url": "git+https://github.com/mohit9456/stack-overflow-18.git"
+  "name": "stack-overflow-18",
+   "version": "1.0.0",
+   "description": "",
+   "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node index.js"
    },
-  "author": "Mohit Pandey",
-  "license": "ISC",
+   "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mohit9456/stack-overflow-18.git"
+   },
+   "author": "",
+   "license": "ISC",
    "bugs": {
-      "url": "https://github.com/mohit9456/stack-overflow-18/issues"
+        "url": "https://github.com/mohit9456/stack-overflow-18/issues"
    },
-  "homepage": "https://github.com/mohit9456/stack-overflow-18#readme",
-  
+   "homepage": "https://github.com/mohit9456/stack-overflow-18#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
