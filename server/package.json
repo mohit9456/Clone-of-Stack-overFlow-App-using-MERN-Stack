@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"No test specified\" && exit 1",
+    "build": "npm i",
     "start": "node index.js"
   },
   "author": "Mohit Pandey",
